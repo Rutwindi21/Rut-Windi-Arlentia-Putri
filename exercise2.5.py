@@ -1,1 +1,0 @@
-print('B.J. Habibie pernah berkata, "Keberhasilan bukanlah milik orang yang pintar. Keberhasilan adalah kepunyaan mereka yang senantiasa berusaha."')
